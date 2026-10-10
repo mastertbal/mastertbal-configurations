@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Eazybank accounts related PROD APIs"
   contactDetails:
     name: "Henry Cougar - PROD Lead"
-    email: "henrycougar@eazybank.com"
+    email: "{cipher}405e7f293dc6faff1573224e6004d2cc9f8ba2b9b82bb44f6c678459f67118b2cd8e953e2ffdbd3a0c0202cccd7f4478"
   onCallSupport:
     - (555) 392-1234
     - (555) 203-1345
